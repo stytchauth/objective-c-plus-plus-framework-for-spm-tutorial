@@ -1,0 +1,6 @@
+framework module StytchFoo {
+  umbrella header "StytchFoo.h"
+  export *
+
+  module * { export * }
+}

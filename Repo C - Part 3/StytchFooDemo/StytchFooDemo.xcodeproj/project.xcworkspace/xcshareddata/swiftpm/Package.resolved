@@ -1,0 +1,15 @@
+{
+  "originHash" : "7107a8d5047a1223a04cfbc77a3fcd5818a8b1c04615ba60bdbd17bced93a8b1",
+  "pins" : [
+    {
+      "identity" : "stytch-foo-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stytchauth/stytch-foo-ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "dac72f6e901523c18a42c3ba019bd6d7e68d71a3"
+      }
+    }
+  ],
+  "version" : 3
+}
