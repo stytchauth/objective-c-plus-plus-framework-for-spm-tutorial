@@ -6,10 +6,6 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		747FF90F2CC00B9F007332F0 /* BuildXCFramework.sh in Resources */ = {isa = PBXBuildFile; fileRef = 747FF90E2CC00B94007332F0 /* BuildXCFramework.sh */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
 		747FF8F72CC008E8007332F0 /* StytchFoo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = StytchFoo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		747FF90E2CC00B94007332F0 /* BuildXCFramework.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = BuildXCFramework.sh; sourceTree = "<group>"; };
@@ -85,7 +81,6 @@
 				747FF8F22CC008E8007332F0 /* Headers */,
 				747FF8F32CC008E8007332F0 /* Sources */,
 				747FF8F42CC008E8007332F0 /* Frameworks */,
-				747FF8F52CC008E8007332F0 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -133,17 +128,6 @@
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXResourcesBuildPhase section */
-		747FF8F52CC008E8007332F0 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				747FF90F2CC00B9F007332F0 /* BuildXCFramework.sh in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		747FF8F32CC008E8007332F0 /* Sources */ = {
